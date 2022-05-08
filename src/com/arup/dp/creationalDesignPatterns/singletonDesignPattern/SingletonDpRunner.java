@@ -1,4 +1,4 @@
-package com.arup.dp.creationalDesignPatterns.singleton;
+package com.arup.dp.creationalDesignPatterns.singletonDesignPattern;
 
 public class SingletonDpRunner {
 	public static void main(String[] args) {

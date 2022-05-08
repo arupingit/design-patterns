@@ -1,4 +1,4 @@
-package com.arup.dp.creationalDesignPatterns.builder;
+package com.arup.dp.creationalDesignPatterns.builderDesignPattern;
 
 public class BuilderDpRunner {
 
