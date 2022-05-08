@@ -11,6 +11,6 @@
 
 ### Structural Design Patterns
 
-1. Proxy Pattern
-2. Flyweight Pattern
-3. Adapter Pattern
+6. Proxy Pattern
+7. Flyweight Pattern
+8. Adapter Pattern
