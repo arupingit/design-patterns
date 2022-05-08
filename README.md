@@ -13,3 +13,4 @@
 
 1. Proxy Pattern
 2. Flyweight Pattern
+3. Adapter Pattern
