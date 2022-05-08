@@ -8,3 +8,8 @@
 4. Singleton Pattern
 5. Prototype Pattern
 
+
+### Structural Design Patterns
+
+1. Proxy Pattern
+2. Flyweight Pattern
