@@ -21,3 +21,4 @@
 ### Behavioral Design Pattern
 
 13. Chain of Responsibility Pattern
+14. Command Pattern
