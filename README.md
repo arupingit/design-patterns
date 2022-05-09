@@ -25,4 +25,5 @@
 15. Strategy Pattern
 16. Obsever Pattern
 17. Template Method Pattern
+18. State Pattern
 
