@@ -23,3 +23,5 @@
 13. Chain of Responsibility Pattern
 14. Command Pattern
 15. Strategy Pattern
+16. Obsever Pattern
+
