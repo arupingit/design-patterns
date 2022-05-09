@@ -8,7 +8,6 @@
 4. Singleton Pattern
 5. Prototype Pattern
 
-
 ### Structural Design Patterns
 
 6. Proxy Pattern
@@ -18,3 +17,7 @@
 10. Decorator Pattern
 11. Composite Pattern
 12. Bridge Pattern
+
+### Behavioral Design Pattern
+
+13. Chain of Responsibility Pattern
