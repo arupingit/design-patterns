@@ -14,5 +14,7 @@
 6. Proxy Pattern
 7. Flyweight Pattern
 8. Adapter Pattern
-9. Facade Patter
-
+9. Facade Pattern
+10. Decorator Pattern
+11. Composite Pattern
+12. Bridge Pattern
