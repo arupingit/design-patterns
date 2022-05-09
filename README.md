@@ -24,4 +24,5 @@
 14. Command Pattern
 15. Strategy Pattern
 16. Obsever Pattern
+17. Template Method Pattern
 
